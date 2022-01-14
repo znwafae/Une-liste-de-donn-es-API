@@ -1,0 +1,12 @@
+.cardUi{
+    width: 33%;
+    padding: 20px;
+}
+.foods{
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
+img{  
+    width: 100px;
+}
